@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8098e0a4-d4ac-419c-b240-b148420d4d20" name="Default" comment="Harroes2">
+    <list default="true" id="8098e0a4-d4ac-419c-b240-b148420d4d20" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -329,7 +329,11 @@
       <created>1412397847888</created>
       <updated>1412397847888</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Harroes3">
+      <created>1412400121642</created>
+      <updated>1412400121642</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -378,7 +382,8 @@
     </option>
     <MESSAGE value="Harroes" />
     <MESSAGE value="Harroes2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Harroes2" />
+    <MESSAGE value="Harroes3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Harroes3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
