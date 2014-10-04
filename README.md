@@ -1,4 +1,8 @@
-Potato-Simulator
+CM4106 Chemical Equilibria and Thermodynamics
+Project Eureka 2014
 ================
-
-It potates.
+M14404
+Yu Siang
+Ian
+Winsen
+Rachel
